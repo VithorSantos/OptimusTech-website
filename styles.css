@@ -22,11 +22,10 @@ body {
 
 .NavBar {
     display: flex;
-    justify-content: space-between;
     background-color: var(--background-color);
     align-items: center;
     margin: 2rem 7rem 8rem 7rem;
-    padding: 0 2rem;
+    width: auto;
 }
 
 .NavBar__logo {
@@ -42,7 +41,8 @@ body {
     font-weight: 500;
     color: var(--text-color);
     text-decoration: none;
-    padding-right: 23.7rem;
+    margin-left: 7.4rem;
+    margin-right: 23.75rem;
 }
 
 .NavBar__links__SobreNos {
@@ -54,6 +54,7 @@ body {
 .NavBar__botoes {
     display: flex;
     gap: 0.75rem;
+    margin-left: auto;
 }
 
 .NavBar__botoes__entrar {
@@ -237,14 +238,12 @@ body {
 
 .Colaboradores {
     display: flex;
-    box-sizing: border-box;
     flex-direction: column;
     justify-content: center;
     align-items: center; 
     text-align: center;
     height: auto;
-    max-width: 102rem;   
-    width: 100%;
+    width: 84.95%;
     margin: auto;
     gap: 1rem;
     background-color: #8E24240D; 
@@ -254,7 +253,7 @@ body {
 .Colaboradores__titulo {
     font-size: 2.25rem;
     font-weight: 500;
-    width: 68rem;
+    max-width: 68rem;
     color: var(--title-text-color);
     line-height: 2.75rem;
     margin-top: 1rem;
@@ -348,3 +347,16 @@ body {
     margin-top: 2rem;
 }
 
+@media (max-width: 1440px) {
+    .NavBar__links {
+        margin-left: 119px;
+        margin-right: 2rem;
+    }
+}
+
+@media (max-width: 1150px) {
+    .NavBar__links {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
