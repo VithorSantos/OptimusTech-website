@@ -33,6 +33,7 @@ O projeto foi construído utilizando tecnologias web fundamentais, priorizando u
 ---
 
 ## Estrutura do Repositório
+
 ```text
 optimustech-website/
 ├── .vscode/
@@ -41,6 +42,7 @@ optimustech-website/
 │   ├── Avatar.png
 │   ├── Image.png
 │   └── logo.png
+│   └── site.png
 ├── src/
 │   ├── css/
 │   │   └── styles.css
