@@ -1,6 +1,6 @@
 # 🚀 OptimusTech Website
 
-![alt text](assets/site.png)
+![Interface do Site](docs/assets/site.png)
 
 Este é um projeto de desenvolvimento web focado na criação de uma landing page institucional moderna, limpa e responsiva para a empresa fictícia **OptimusTech**. O site apresenta a cultura da empresa, métricas de sucesso, vagas em aberto e depoimentos de colaboradores.
 
