@@ -33,11 +33,19 @@ O projeto foi construído utilizando tecnologias web fundamentais, priorizando u
 ---
 
 ## Estrutura do Repositório
-
-* `index.html`: Arquivo principal contendo a estrutura semântica da página.
-* `styles.css`: Folha de estilo centralizada com todas as regras de design e responsividade.
-* `assets/`: Diretório que armazena os recursos visuais utilizados (logos, imagens de equipe e avatares).
-* `.vscode/`: Configurações de ambiente de desenvolvimento local (Live Server configurado na porta `5501`).
+```text
+optimustech-website/
+├── .vscode/
+│   └── settings.json
+├── assets/
+│   ├── Avatar.png
+│   ├── Image.png
+│   └── logo.png
+├── src/
+│   ├── css/
+│   │   └── styles.css
+│   └── index.html
+└── README.md
 
 ---
    
