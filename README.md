@@ -1,4 +1,4 @@
-# 🚀 OptimusTech Website
+# OptimusTech Website
 
 ![Interface do Site](docs/assets/site.png)
 
