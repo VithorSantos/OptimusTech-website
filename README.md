@@ -6,14 +6,14 @@ Este é um projeto de desenvolvimento web focado na criação de uma landing pag
 
 ---
 
-🌐 Link do Projeto Hospedado:
+Link do Projeto Hospedado:
 O site está publicado e disponível para visualização online através do GitHub Pages:
 
-🔗 Visite o site da OptimusTec: https://vithorsantos.github.io/OptimusTech-website/
+Visite o site da OptimusTec: https://vithorsantos.github.io/OptimusTech-website/
 
-Desenvolvido com 💻 por VithorSantos
+Desenvolvido por VithorSantos
 
-## 💻 Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 1. Faça o clone deste repositório:
    ```bash
@@ -21,7 +21,7 @@ Desenvolvido com 💻 por VithorSantos
 
 2. Abra o arquivo index.html diretamente no seu navegador, ou utilize a extensão Live Server no VS Code para visualizar as alterações em tempo real.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído utilizando tecnologias web fundamentais, priorizando uma estrutura semântica e estilização moderna:
 
@@ -32,7 +32,7 @@ O projeto foi construído utilizando tecnologias web fundamentais, priorizando u
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 * `index.html`: Arquivo principal contendo a estrutura semântica da página.
 * `styles.css`: Folha de estilo centralizada com todas as regras de design e responsividade.
